@@ -1,6 +1,6 @@
 ---
 title: "Data Structures implemented in C++"
-excerpt: "A custom implementation of a dynamic array and linked list. <br/><img src='/images/data_structures.png'>"
+excerpt: "A custom implementation of a dynamic array and linked list."
 collection: portfolio
 ---
 
