@@ -9,13 +9,13 @@
 locale                   : "en-US"
 title                    : "Pieter Janse van Rensburg"
 title_separator          : "-"
-name                     : &name "Pieter"
+name                     : &name "Pieter Janse van Rensburg"
 description              : &description "personal description"
 url                      : https://pieter07.github.io/my-website # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pieter07.github.io/my-website"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "<meta name="google-site-verification" content="huKtjCWRiQStZ0dFJKvLdQsNcPzyQQRI__4uwEMEs2w" />"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
