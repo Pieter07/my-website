@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
+## Education
 
 **B.BusSci. specializing in Actuarial Science with an additional major in Computer Science**
 2014-2018
@@ -18,13 +18,13 @@ University of Cape Town
 * Class Medal for STA4016H.
 * Dean's Merit List.
 
-# Professional Accredations
+## Professional Accredations
 
 **Certified as a Technical Member of the Actuarial Society of South Africa (TASSA)**
 2019
 Actuarial Society of South Africa
 
-# Work experience
+## Work experience
 
 **Insights Specialist**
 2021 Mar - Current
@@ -66,21 +66,21 @@ Analyzed the year-on-year surplus emerging for several insurance products, ident
 reported on these to actuarial team leaders. Moreover, setup Excel spreadsheets to check numerous assumptions used
 in the valuation basis
 
-# Programming & Data Manipulation Languages
+## Programming & Data Manipulation Languages
 
 Python • R • VBA • SQL (SQL Server, PostgreSQL) • NoSQL (MongoDB, CouchDB) • C++ • Rust • Go • Java • C# • F# • Haskell • 
 PHP • JavaScript and Typescript (React) • MATLAB
 
-# Platforms and Technologies
+## Platforms and Technologies
 
 AWS • Apache Spark  • Docker  • GraphQL  • Git  • Jira  • Keras  • .Net • Node  • Pytorch  • React  • Sprint  • Tensorflow
 
-# Publications
+## Publications
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-# References
+## References
 
 Available on request.
