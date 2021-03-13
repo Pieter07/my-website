@@ -11,15 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.BusSci. specializing in Actuarial Science with an additional major in Computer Science, University of Cape Town, 2014-2018
+B.BusSci. specializing in Actuarial Science with an additional major in Computer Science, University of Cape Town, 2014-2018
+* Awarded with distinction in Computer Science.
+* Class Medal for STA4016H.
+* Dean's Merit List.
 
 Work experience
 ======
-* Summer 2015: Insights Specialist
-  * Momentum-Metropolitan
+2021-Current: Insights Specialist at Momentum-Metropolitan
 
-* Fall 2019-2021: Actuarial Analyst
-  * Momentum-Metropolitan
+2019-2021: Actuarial Analyst at Momentum-Metropolitan
   
 Skills
 ======
@@ -29,6 +30,8 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+
+
 
 Publications
 ======
