@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Current
-
-I worked at Momentum-Metropolitan as an Insights Specialist. During my tenure at the company, I have learned how to: design bussiness processes, engage with stakeholders, plan and implement change management and build big data models which add business value. 
+I work at Momentum-Metropolitan as an Insights Specialist. During my tenure at the company, I have learned how to: design bussiness processes, engage with stakeholders, plan and implement change management and build big data models which add business value. 
 
 ## Likes and Interests
 
