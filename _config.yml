@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pieter Janse van Rensburg"
+title                    : "Pieter Janse van Rensburg (TASSA)"
 title_separator          : "-"
 name                     : &name "Pieter Janse van Rensburg"
-description              : &description "personal description"
+description              : &description "Actuary | Software Engineer | Data Scientist"
 url                      : https://pieter07.github.io/my-website # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pieter07.github.io/my-website"
@@ -87,7 +87,7 @@ author:
   employer         : "Momentum-Metropolitan"
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
