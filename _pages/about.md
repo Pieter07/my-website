@@ -18,7 +18,11 @@ I wish to use my actuarial, computer science and statistical backgrounds to assi
 
 ## Currently
 
-I work at Momentum-Metropolitan as an Insights Specialist. During my tenure at the company, I have learned how to: design bussiness processes, engage with stakeholders, plan and implement change management and build big data models which add business value. 
+I am working at Momentum-Metropolitan as an Insights Specialist. During my tenure at the company, I have learned how to design bussiness processes, engage with stakeholders, plan and implement change management and build big data models which add business value.
+
+## History
+
+...
 
 ## Likes and Interests
 
