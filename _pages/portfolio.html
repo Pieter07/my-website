@@ -2,14 +2,17 @@
 layout: archive
 title: "Portfolio"
 permalink: /portfolio/
-author_profile: true
+author_profile: false
 ---
 
+<section>
 {% include base_path %}
 
 <p>I have listed some of the projects which I have worked on below:</p>
 
 {% for post in site.portfolio %}
+  <article>
   {% include archive-single.html %}
+  </article>
 {% endfor %}
-
+</section>
