@@ -14,7 +14,7 @@ Over time, I have also come to understand the importance of utilizing data to ma
 
 Additionally, over time I have also built up a strong financial background from my actuarial studies. When making decisions, finances come into play and, generally, decisions are only considered viable if they bring about a positive return on investment.
 
-I wish to use my actuarial, computer science and statistics backgrounds to assist in making decisions which bring forth positive change into the world. 
+I wish to use my actuarial, computer science and statistical backgrounds to assist in making decisions which bring forth positive change into the world. 
 
 ## Currently
 
