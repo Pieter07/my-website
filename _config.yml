@@ -11,9 +11,9 @@ title                    : "Pieter Janse van Rensburg (TASSA)"
 title_separator          : "-"
 name                     : &name "Pieter Janse van Rensburg"
 description              : &description "Actuary | Software Engineer | Data Scientist"
-url                      : https://pieter07.github.io/my-website # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://pieterjansevanrensburg.github.io/my-website # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "pieter07.github.io/my-website"
+repository               : "pieterjansevanrensburg.github.io/my-website"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "pieter07"
+  github           : "pieterjansevanrensburg"
   google_plus      :
   keybase          :
   instagram        :
