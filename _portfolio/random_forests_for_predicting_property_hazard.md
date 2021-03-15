@@ -1,7 +1,7 @@
 ---
 title: "Random Forests"
-excerpt: "Used random forests and boosted trees to predict property hazard.
-<a title='Venkata Jagannath, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons' href='https://commons.wikimedia.org/wiki/File:Random_forest_diagram_complete.png'><img width='512' alt='Random forest diagram complete' src='https://upload.wikimedia.org/wikipedia/commons/7/76/Random_forest_diagram_complete.png'></a>"
+excerpt: "<a title='Venkata Jagannath, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons' href='https://commons.wikimedia.org/wiki/File:Random_forest_diagram_complete.png'><img width='512' alt='Random forest diagram complete' src='https://upload.wikimedia.org/wikipedia/commons/7/76/Random_forest_diagram_complete.png'></a>
+Used random forests and boosted trees to predict property hazard."
 collection: portfolio
 ---
 
