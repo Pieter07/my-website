@@ -1,6 +1,6 @@
 ---
 title: "Binning Value Problem"
-excerpt: "<a title='Dake, CC BY-SA 2.5 Generic &lt;https://creativecommons.org/licenses/by-sa/2.5&gt;, via Wikimedia Commons' href='https://commons.wikimedia.org/wiki/File:Knapsack.svg'><img width='512' alt='Knapsack' src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Knapsack.svg/512px-Knapsack.svg.png'></a>
+excerpt: "<a title='Dake, CC BY-SA 2.5 Generic &lt;https://creativecommons.org/licenses/by-sa/2.5&gt;, via Wikimedia Commons' href='https://commons.wikimedia.org/wiki/File:Knapsack.svg'><img width='512' alt='Knapsack' src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Knapsack.svg/512px-Knapsack.svg.png'></a>
 A variant of the multiple knapsack problem."
 collection: portfolio
 ---
