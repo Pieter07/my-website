@@ -1,6 +1,8 @@
 ---
 title: "Clustering and Market Basket Analysis"
-excerpt: "Applied unsupervised learning techniques on online shopper data."
+excerpt: "Applied unsupervised learning techniques on online shopper data.
+<a title='Cluster-2.gif: hellisp
+derivative work: Wgabrie, Public domain, via Wikimedia Commons' href='https://commons.wikimedia.org/wiki/File:Cluster-2.svg'><img width='512' alt='Cluster-2' src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Cluster-2.svg/512px-Cluster-2.svg.png'></a>"
 collection: portfolio
 ---
 
