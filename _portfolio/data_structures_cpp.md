@@ -1,6 +1,13 @@
 ---
 title: "Data Structures implemented in C++"
-excerpt: "A custom implementation of a dynamic array and a singly-linked list."
+excerpt: "A custom implementation of a dynamic array and a singly-linked list.
+<figure>
+    <img src="images/singly-linked-list.png" alt="Image not found"/>
+    <footer>
+        <small>Sagargurav123, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons</small>
+    </footer>
+</figure>
+"
 collection: portfolio
 ---
 
