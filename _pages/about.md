@@ -22,11 +22,12 @@ I am working at Momentum-Metropolitan as an Insights Specialist. During my tenur
 
 ## History
 
-...
+I grew up in Centurion, Gauteng. In high school, I took Accounting, Information Systems, Physics and French as my optional subjects. After I gradauted high school, I went to Cape Town to study at the [University of Cape Town](https://www.uct.ac.za/) and stay there for two years afterwards. In those two years, I worked in the insurance industry as part of the Metropolitan Retail Valuations Department.
 
 ## Likes and Interests
 
 * Blockchain and Cryptocurrencies
+* Computer Games
 * Investing
 * Listening to Podcasts
 * Programming
