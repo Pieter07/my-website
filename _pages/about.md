@@ -33,6 +33,6 @@ I grew up in Centurion, Gauteng. In high school, I took Accounting, Information 
 * Programming
 * Running
 * Reading
+* Software
 * Space
 * Technology
-* Weightlifting
